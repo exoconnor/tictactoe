@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Basic TicTacToe game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techacolyte42/tictactoe.git"
+  },
+  "author": "Connor K. Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techacolyte42/tictactoe/issues"
+  },
+  "homepage": "https://github.com/techacolyte42/tictactoe#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
